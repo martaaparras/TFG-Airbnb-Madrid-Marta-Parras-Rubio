@@ -1,5 +1,5 @@
 Carpeta con los notebooks utilizados en el TFG.
-# Datos utilizados
+# Datos utilizados EN EL PROYECTO
 
 - listings.csv (Inside Airbnb)
 - renta_media_madrid.csv (Ayuntamiento de Madrid)
